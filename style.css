@@ -1,15 +1,6 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
-nav{
-    display: flex;
-    justify-content: space-between;
-    color: white;
-    padding: 20px 40px;
-    align-items: center;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 9999;
-}
+
